@@ -80,7 +80,7 @@ console.log("Lista di auto con la targa aggiunta", cars);
 */
 cars.push({ brand: "Audi", model: "A3", color: "silver", trims: ["life", "allure", "active"] });
 console.log(cars);
-cars.trims.splice(1, 2);
+
 /* ESERCIZIO 7
     Scrivi del codice per salvare il primo elemento della proprietà "trims" di ogni auto nel nuovo array "justTrims", sotto definito.
 */
