@@ -1,0 +1,130 @@
+/* Your styles here */
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* Header */
+header {
+  background-color: #232f3e;
+  color: white;
+}
+
+header img {
+  height: 40px;
+  margin: 1rem;
+}
+
+header div {
+  background-color: #304154;
+  padding: 10px;
+  text-align: left;
+}
+
+header ul li {
+  display: inline;
+  padding: 10px;
+}
+
+/*Article */
+article {
+  padding: 2rem;
+}
+article div {
+  background-color: rgb(255, 128, 0);
+  color: white;
+  text-align: center;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}
+
+/*Section*/
+
+section {
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+section div {
+  background-image: url(../images/bg-image.png);
+  background-size: 100%;
+  padding: 1.2rem;
+}
+section div h1 {
+  font-size: 2rem;
+  margin: 1rem;
+  font-weight: bold;
+}
+/*Body*/
+body {
+  background-color: rgb(229, 231, 232);
+}
+/*Main*/
+main {
+  text-align: center;
+  padding: 1rem;
+  margin: 1rem;
+  background-color: white;
+}
+main section {
+  text-align: left;
+}
+main section a {
+  text-decoration: none;
+  color: rgb(36, 119, 134);
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+h3 {
+  display: inline;
+  padding: 1rem;
+  color: #232f3e;
+  font-size: 1rem;
+}
+
+main div {
+  text-align: center;
+  display: inline;
+  margin: 0.5rem;
+}
+
+main div img {
+  height: 150px;
+  border-radius: 15%;
+}
+
+/* Div delle immagini*/
+div {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 1rem;
+}
+div img {
+  height: 300px;
+}
+div a {
+  text-decoration: none;
+  color: rgb(36, 119, 134);
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+/*Footer*/
+footer {
+  background-color: #232f3e;
+  color: white;
+  text-align: center;
+}
+footer img {
+  height: 40px;
+  margin: 3rem;
+}
+footer div a {
+  color: white;
+  text-decoration: underline;
+  padding: 2rem;
+}
+
+footer div {
+  background-color: #304154;
+  padding: 10px;
+}
