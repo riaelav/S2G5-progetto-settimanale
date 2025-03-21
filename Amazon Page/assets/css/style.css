@@ -67,6 +67,7 @@ main {
 }
 main section {
   text-align: left;
+  padding: 1rem;
 }
 main section a {
   text-decoration: none;
@@ -89,7 +90,7 @@ main div {
 }
 
 main div img {
-  height: 150px;
+  width: 22%;
   border-radius: 15%;
 }
 
